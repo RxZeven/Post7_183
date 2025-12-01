@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Pmob7" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#9C27B0</item>
+        <item name="colorPrimaryVariant">#7B1FA2</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">#E1BEE7</item>
+        <item name="android:statusBarColor">#9C27B0</item>
+    </style>
+</resources>
